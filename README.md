@@ -1,4 +1,4 @@
-# Earthquake Visualization
+# Earthquake Visualizations
 
 ## Table of Contents
 
